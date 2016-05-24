@@ -42,7 +42,7 @@ def get_item_details(class_rent=0):
 
 # 只有直接执行脚本才会运行下面的函数，如果其他文件引用这个文件，下面的函数不会执行
 if __name__ == '__main__':
-    get_item_info()
+    get_item_details()
 
 
 
